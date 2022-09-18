@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Yeseul%20Cho&fontColor=00d8f5&desc=Backend%20Developer&descAlignY=70&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Yeseul%20Cho&fontColor=000000&descAlignY=70&fontSize=60)
 
-- Backend developer who likes to make things that make our life easier
+### About me
+A backend developer who loves to make things that make our life easier.
 
 ### Contact
 - blog : [https://sue-is-programming.tistory.com/](https://sue-is-programming.tistory.com/)
